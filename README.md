@@ -26,6 +26,7 @@ You have to implement the following functions in the front and back end:
 
 - Here is a small tutorial of how to build a Django app: https://realpython.com/django-setup/
 - Easiest use create-react-app for creating the React front end: https://create-react-app.dev/docs/getting-started
+- using ORM for DB operations
 - You can use all external libraries you find
 - Have fun and show us your skills
 - Reach out to me (Nicholas) if you have any questions
